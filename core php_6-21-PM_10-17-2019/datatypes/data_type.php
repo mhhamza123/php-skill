@@ -29,6 +29,7 @@ echo gettype($var2);
 //......................................
 /**
  * using conditions to check type of var
+ * 
  */
 $var3 = 1;
 echo is_string($var2) ? 'yes' : 'no';
