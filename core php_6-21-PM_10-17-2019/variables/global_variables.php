@@ -1,9 +1,7 @@
 <?php
 /**
- * dd
  * understanding of different variables with php 7.1
  * global and local scope of variables
- *
  */
 
  $x = 'variable<br>';
